@@ -1,0 +1,17 @@
+# Arquivo com credenciais sensíveis (NUNCA SUBIR)
+.env
+
+# Arquivos de log e histórico gerados em runtime
+*.log
+historico_cotacoes.csv
+
+# Ambientes virtuais do Python
+venv/
+.venv/
+env/
+
+# Arquivos do sistema operacional e IDEs
+.vscode/
+__pycache__/
+*.pyc
+.DS_Store
